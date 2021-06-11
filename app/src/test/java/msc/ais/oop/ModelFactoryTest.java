@@ -6,6 +6,7 @@ import org.junit.jupiter.api.Test;
 
 /**
  * @author Konstantinos Raptis [kraptis at unipi.gr] on 11/6/21.
+ * @author Stavros Labrinos [stalab at linuxmail.org] on 11/6/21.
  */
 public class ModelFactoryTest {
 
