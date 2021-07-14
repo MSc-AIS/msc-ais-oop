@@ -17,6 +17,8 @@ dependencies {
     implementation("eu.toop:toop-edm:2.1.1")
     // guava
     implementation("com.google.guava:guava:29.0-jre")
+    // apache commons
+    implementation("org.apache.commons:commons-lang3:3.12.0")
     // log4j2
     implementation("org.apache.logging.log4j:log4j-api:2.14.0")
     implementation("org.apache.logging.log4j:log4j-core:2.14.0")
